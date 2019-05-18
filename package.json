@@ -1,0 +1,14 @@
+{
+  "name": "promise-api",
+  "version": "1.0.0",
+  "description": "A simple implementation of the basic promise api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Steele",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
