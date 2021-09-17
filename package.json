@@ -9,6 +9,6 @@
   "author": "Brian Steele",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^5.16.0"
+    "eslint": "^7.32.0"
   }
 }
